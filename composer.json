@@ -1,9 +1,15 @@
 {
-    "name": "hasselhoff/kung-fury",
+    "name": "dfpplinsinga/statamic-export",
     "extra": {
         "statamic": {
             "name": "Kung Fury",
             "description": "Initial Startkit"
         }
-    }
+    },
+    "repositories": [
+	{
+		"type": "vcs",
+		"url":  "git@github.com:bdfpplinsinga/statamic-export.git"
+	}
+    
 }
