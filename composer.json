@@ -1,5 +1,5 @@
 {
-    "name": "dfpplinsinga/statamic-export",
+    "name": "bdfpplinsinga/statamic-export",
     "extra": {
         "statamic": {
             "name": "Kung Fury",
@@ -11,5 +11,5 @@
 		"type": "vcs",
 		"url":  "git@github.com:bdfpplinsinga/statamic-export.git"
 	}
-    
+]
 }
